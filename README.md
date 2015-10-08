@@ -1,2 +1,2 @@
-# HelloWord
+# HelloWorld
 Try to use GitHub
